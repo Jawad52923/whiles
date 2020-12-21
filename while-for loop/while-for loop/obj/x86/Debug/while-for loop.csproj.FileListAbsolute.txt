@@ -1,0 +1,8 @@
+c:\users\tabish\documents\visual studio 2010\Projects\while-for loop\while-for loop\bin\Debug\while-for loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\while-for loop\while-for loop\bin\Debug\while-for loop.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\while-for loop\while-for loop\obj\x86\Debug\while-for loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\while-for loop\while-for loop\obj\x86\Debug\while-for loop.pdb
+C:\Users\Tabish\Desktop\pf lec\while-for loop\while-for loop\obj\x86\Debug\while-for loop.exe
+C:\Users\Tabish\Desktop\pf lec\while-for loop\while-for loop\obj\x86\Debug\while-for loop.pdb
+C:\Users\Tabish\Desktop\pf lec\while-for loop\while-for loop\bin\Debug\while-for loop.exe
+C:\Users\Tabish\Desktop\pf lec\while-for loop\while-for loop\bin\Debug\while-for loop.pdb

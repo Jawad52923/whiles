@@ -1,0 +1,7 @@
+c:\users\tabish\documents\visual studio 2010\Projects\while loop\while loop\bin\Debug\while loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\while loop\while loop\bin\Debug\while loop.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\while loop\while loop\obj\x86\Debug\while loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\while loop\while loop\obj\x86\Debug\while loop.pdb
+C:\Users\Tabish\Documents\Visual Studio 2010\Projects\while loop\while loop\obj\x86\Debug\while loop.csprojResolveAssemblyReference.cache
+C:\Users\Tabish\Desktop\pf lec\while loop\while loop\obj\x86\Debug\while loop.exe
+C:\Users\Tabish\Desktop\pf lec\while loop\while loop\obj\x86\Debug\while loop.pdb
